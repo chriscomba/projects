@@ -1,0 +1,21 @@
+{
+    "excercise": {
+        "difficulty": 2,
+        "name": "Squats",
+        "category": "Legs"
+    },
+    "name": "Chris",
+    "excercises": [
+        {
+            "difficulty": 2,
+            "name": "Squats",
+            "category": "Legs"
+        },
+        {
+            "difficulty": 1,
+            "name": "push ups",
+            "category": "chest"
+        }
+    ],
+    "workoutHistory": []
+}

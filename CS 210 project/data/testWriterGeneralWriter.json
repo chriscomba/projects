@@ -1,0 +1,28 @@
+{
+    "name": "Chris",
+    "excercises": [
+      {
+        "name": "Squats",
+        "category": "legs",
+        "difficulty": 2
+      },
+      {
+        "name": "push ups",
+        "category": "chest",
+        "difficulty": 1
+      }
+    ]
+    ,
+    "workoutHistory" : [
+        {
+            "name": "Squats",
+            "category": "Legs",
+            "difficulty": 2
+          },
+          {
+            "name": "Push ups",
+            "category": "Chest",
+            "difficulty": 1
+          }
+    ]
+  }

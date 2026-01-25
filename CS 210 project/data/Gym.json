@@ -1,0 +1,26 @@
+{
+    "excercise": {
+        "difficulty": 2,
+        "name": "Squats",
+        "category": "Legs"
+    },
+    "name": "User1",
+    "excercises": [],
+    "workoutHistory": [
+        {
+            "difficulty": 3,
+            "name": "rdls",
+            "category": "booty"
+        },
+        {
+            "difficulty": 4,
+            "name": "hip thrusts",
+            "category": "booty"
+        },
+        {
+            "difficulty": 2,
+            "name": "Squats",
+            "category": "Legs"
+        }
+    ]
+}
